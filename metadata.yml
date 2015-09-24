@@ -1,0 +1,9 @@
+---
+
+name: httpbin
+version: 0.1
+description: Passthrough to httpbin
+type: passthrough
+url: https://api.araport.org/httpbin/v1
+whitelist:
+  - api.araport.org
